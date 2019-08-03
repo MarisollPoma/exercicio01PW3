@@ -1,5 +1,5 @@
 var Competidores = 10;
-var Qtdefolhas = 99;
+var Qtdefolhas = 90;
 var FolhaPcompetidor = 10;
 var quantidadefolha = (Competidores * FolhaPcompetidor);
 if (quantidadefolha > Qtdefolhas) {
